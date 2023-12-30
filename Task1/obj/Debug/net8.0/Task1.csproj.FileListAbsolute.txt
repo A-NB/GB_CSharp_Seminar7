@@ -12,3 +12,4 @@ I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Se
 I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar7\Task1\obj\Debug\net8.0\Task1.pdb
 I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar7\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar7\Task1\obj\Debug\net8.0\ref\Task1.dll
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar7\Task1\obj\Debug\net8.0\Task1.sourcelink.json

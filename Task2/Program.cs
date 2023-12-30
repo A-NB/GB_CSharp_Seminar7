@@ -3,7 +3,6 @@
 
 // Задача 2: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
 
-/* Задача 3: Задайте произвольный массив. Выведете его элементы, начиная с конца. Использовать рекурсию, не использовать циклы. */
 
 int[] GetNumbers()
 {
@@ -13,13 +12,13 @@ int[] GetNumbers()
     {
         System.Console.Write("Введите первое неотрицательное целое число: ");
         value1 = Convert.ToInt32(Console.ReadLine());
-    } while (value1 == 0 || value1 < 0);
+    } while (value1 < 0);
     System.Console.WriteLine();
     do
     {
         System.Console.Write("Введите второе неотрицательное целое число: ");
         value2 = Convert.ToInt32(Console.ReadLine());
-    } while (value2 == 0 || value2 < 0);
+    } while (value2 < 0);
     System.Console.WriteLine();
     return [value1, value2];
 }
